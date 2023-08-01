@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/forest.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "beautiful autumn forest in the evening";
 
 /**
  * Sort description that expands on your title on the Home component.

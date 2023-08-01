@@ -20,10 +20,10 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/yellow-branch.jpg";
+import image from "../images/pink-flowers.jpg";
 
 const imageAltText =
-  "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+  "a branch filled with small pink flower buds with other similar blurred branches in the background";
 
 const Home = ({ name, title }) => {
   return (
