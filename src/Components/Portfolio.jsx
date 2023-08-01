@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/flowers.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,26 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "MoodTrack",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Personal project to create a calendar/diary web application that lets you to keep track of the quality of your days using colors.",
+    url: "https://marcusng01.github.io/MoodTrack/",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Java App for Charity Run Event",
+    description: "Java App made as practice for a fictional UTHM Charity Run Event",
+    url: "https://github.com/Marcusng01/Charity_Run_Java_GUI_Project",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "My Biodata Site",
+    description: "A website that explains more about me, my memories and my dreams",
+    url: "https://marcusng01.github.io/Web-Development-Lab-3/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "AI project to Predict Fashion Product Classes",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Artificial Intelligence project made in colaboration with a coursemate to classify fashion products.",
+    url: "https://github.com/Marcusng01/Predict-Fashion-Products-Classes-Using-MNIST-Data-Set-",
   },
 ];
 
